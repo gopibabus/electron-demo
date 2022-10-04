@@ -1,0 +1,19 @@
+{
+  "name": "electron-demo",
+  "productName": "image Resizer",
+  "version": "1.0.0",
+  "description": "Demo electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Gopibabu Srungavarapu",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.8.1",
+    "electron": "^21.0.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
